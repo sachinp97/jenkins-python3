@@ -1,7 +1,7 @@
 Jenkins Image with Python3 on jenkins-alpine
 ---------------------------------------------------
 
-Dockerfile for Jenkins with python3 on jenkins linux alpine with basic python core libraries.
+Dockerfile for Jenkins with python3 based on jenkins linux alpine with additions of basic python core libraries.
 
 Building the image
 ----------------------
